@@ -1,0 +1,11 @@
+2025-03-10 21:25:18,864 - vqa_app - INFO - Image loaded, size: (1200, 1200)
+2025-03-10 21:25:18,950 - vqa_app - INFO - Image resized to: (800, 800)
+2025-03-10 21:25:18,961 - vqa_app - INFO - Loading model: blip
+2025-03-10 21:25:38,805 - vqa_app - INFO - Generating answer for question: 'how many cookies are in the image'
+2025-03-10 21:25:42,263 - vqa_app - INFO - Answer generated: '12'
+2025-03-10 21:25:46,657 - tensorflow - WARNING - From C:\Users\amart\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-03-10 21:26:25,806 - vqa_app - INFO - Image loaded, size: (1500, 1000)
+2025-03-10 21:26:25,848 - vqa_app - INFO - Image resized to: (800, 533)
+2025-03-10 21:26:25,859 - vqa_app - INFO - Generating answer for question: 'what is the name of that bridge'
+2025-03-10 21:26:26,964 - vqa_app - INFO - Answer generated: 'golden gate'
