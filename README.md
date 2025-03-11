@@ -22,7 +22,7 @@ A multi-modal AI application that allows users to upload images and ask question
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/visual-question-answering.git
+   git clone https://github.com/Amarthya-DG/Multi-Model-AI---ImageQA.git
    cd visual-question-answering
    ```
 
@@ -72,11 +72,7 @@ This application uses the following pre-trained models from Hugging Face:
 - `models/`: Contains model handling code
 - `utils/`: Utility functions for image processing and more
 - `static/`: Static files including uploaded images
-- `run.py`: Script to run the application
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
